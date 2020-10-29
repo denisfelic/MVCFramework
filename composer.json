@@ -1,0 +1,16 @@
+{
+    "name": "denisfelic/mvc-framework",
+    "description": "Mvc Framework",
+    "authors": [
+        {
+            "name": "Denis Feliciano",
+            "email": "denisf.salles@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\" : "./"
+        }
+    }
+}
